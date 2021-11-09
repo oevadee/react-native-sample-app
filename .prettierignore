@@ -1,0 +1,12 @@
+android
+ios
+node_modules
+.buckconfig
+.editorconfig
+.gitattributes
+.gitignore
+.prettierignore
+.watchmanconfig
+app.json
+package.json
+tsconfig.json
